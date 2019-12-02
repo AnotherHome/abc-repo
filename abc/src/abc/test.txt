@@ -6,5 +6,11 @@ v111
 v2222
 
 
+<<<<<<< HEAD
 45646546546878
 45468574887878
+=======
+45454543
+vdfsafd
+12132131155
+>>>>>>> branch 'master' of https://github.com/AnotherHome/abc-repo.git
